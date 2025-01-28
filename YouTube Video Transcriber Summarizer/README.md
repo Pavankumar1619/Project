@@ -11,7 +11,7 @@ This project allows users to input a YouTube video URL, download the audio, tran
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/KapilGoudLingala/YouTube-Video-Transcriber-Summarizer.git
+   git clone https://github.com/Pavankumar1619/Project/tree/main/YouTube%20Video%20Transcriber%20Summarizer
    cd YouTube-Video-Transcriber-Summarizer
 
 2. Set Up Google Cloud:
